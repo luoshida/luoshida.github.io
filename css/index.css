@@ -64,3 +64,22 @@
 .foot p{
 	text-align: center;
 }
+#inter-main .panel-heading{
+	border-bottom: 1px solid #ddd;
+}
+#inter-main .panel-title{
+	font-size: 25px;
+}
+#inter-main .panel-nav{
+	margin-top: 15px;
+	margin-bottom: 0px;
+}
+#inter-main .panel-footer{
+	background-color: #fff;
+}
+#inter-main .panel-p{
+	padding: 20px 10px;
+	margin-top: 15px;
+	margin-bottom: 0px;
+	background: #eee;
+}
