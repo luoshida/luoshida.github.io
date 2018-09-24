@@ -18,8 +18,8 @@
 	
 }
 .main{
-	margin-top: 67px;
-	padding-top: 10px;
+	margin-top: 87px;
+	padding-top: 20px;
 }
 
 #carousel-example-generic img{
@@ -37,7 +37,7 @@
 .main .fr-img-t{
 	margin-bottom: 31px;
 }
-.panel{
+.col-md-8 .index-panel{
 	margin-top: 20px;
 }
 .panel .panel-heading{
