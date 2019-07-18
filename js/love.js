@@ -169,7 +169,7 @@
             ctx.moveTo(0, 0);
             ctx.scale(0.75, 0.75);
             ctx.font = "18px 微软雅黑,Verdana";
-            ctx.fillText("拜托 click", 23, 10);
+            ctx.fillText("轻轻的", 23, 10);
             ctx.restore();
         },
         clear: function() {
